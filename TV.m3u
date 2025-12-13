@@ -1,462 +1,238 @@
 #EXTM3U
 #EXTINF:-1 group-title="Эфирные", Тасс - стриминговый канал
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Эфирные", 10 канал Саранск
 https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
+
 #EXTINF:-1 group-title="Эфирные", 11 канал Пенза 
 http://85.234.33.63/stream/c11.m3u8
+
 #EXTINF:-1 group-title="Эфирные",12 Канал (Омск)
 https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Эфирные",12 Канал (Омск) HD
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1,1HD
-https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1,1HD Music TV
+
+#EXTINF:-1 group-title="Музыкальные",1HD Music TV
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1,24 KZ
+
+#EXTINF:-1 group-title="Казахстан",24 KZ
 http://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
-#EXTINF:-1,24 KZ
-http://sc.id-tv.kz/Khabar_24.m3u8
-#EXTINF:-1,24 KZ
-http://213.230.65.254:8000/play/a01x
-#EXTINF:-1,2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1,2x2
-http://178.212.71.253:8000/play/113/index.m3u8
-#EXTINF:-1,2x2
-http://5.188.159.128:8070/2x2/index.m3u8
-#EXTINF:-1,2x2
-http://95.66.188.74/2x2/index.m3u8
-#EXTINF:-1,2x2
-http://5.188.221.43:8080/play/2x2
-#EXTINF:-1,2x2
-http://95.66.188.74:80/2x2/mono.m3u8
-#EXTINF:-1,2x2
-http://91.207.115.228:5000/c180
-#EXTINF:-1,2x2
-http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1,2x2
-http://193.25.8.59:8000/2x2
-#EXTINF:-1,2x2
+
+#EXTINF:-1 group-title="Эфирные",2x2
 http://95.66.188.74/2x2/mono.m3u8
-#EXTINF:-1,31 канал KZ
-http://sc.id-tv.kz/31Kanal.m3u8
-#EXTINF:-1,31 канал KZ (HD)
-https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
-#EXTINF:-1,312
+
+#EXTINF:-1 group-title="Кино и сериалы",312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1,312 Kino
+
+#EXTINF:-1 group-title="Кино и сериалы",312 Kino
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1,360
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1,360
-http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1,360
-https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
-#EXTINF:-1,360
-http://tv.ttk.mx:9052
-#EXTINF:-1,360
-http://178.212.71.253:8000/play/39/index.m3u8
-#EXTINF:-1,360
-http://195.158.223.132:8009/Telekanal_360
-#EXTINF:-1,360
-http://91.207.115.228:5000/c136
-#EXTINF:-1,360
-http://91.194.191.241:8081/chid27/tracks-v1a1/mono.m3u8
-#EXTINF:-1,360 (Армавир)
-http://85.172.79.221:36037/live/360/playlist_360.m3u8
-#EXTINF:-1,360 (Сургут)
-http://video1.in-news.ru/360/tracks-v1a1/index.m3u8
-#EXTINF:-1,360 HD
+
+#EXTINF:-1 group-title="Эфирные",360 HD
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1,360 HD
+
+#EXTINF:-1 group-title="Эфирные",360 Новости HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,360 HD
-http://tv.ttk.mx:9088
-#EXTINF:-1,360 HD
-http://31.148.48.15:80/Telekanal_360_HD/index.m3u8
-#EXTINF:-1,360 HD
-http://95.66.188.74/360_HD/mono.m3u8
-#EXTINF:-1,360 Новости
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
-#EXTINF:-1,360 Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1,360 Новости
-https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
-#EXTINF:-1,360 Новости
-http://91.207.115.228:5000/c129
-#EXTINF:-1,360 Новости HD
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1,360 Новости HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,365
-http://178.212.71.253:8000/play/67/index.m3u8
-#EXTINF:-1,365
+
+#EXTINF:-1 group-title="Эфирные",365
 http://31.148.48.15:80/365_dney/index.m3u8
-#EXTINF:-1,365
+#EXTINF:-1 group-title="Эфирные",365 (тест)
 http://185.46.16.239:8000/Paramount_Comedy
-#EXTINF:-1,365
+#EXTINF:-1 group-title="Эфирные",365 Грузия
 http://158.101.222.193:88/georgia_play.php?id=365day
-#EXTINF:-1,365
-http://91.207.115.228:5000/c36
-#EXTINF:-1,365
-http://87.76.32.36:8001/365
-#EXTINF:-1,4 канал Екатеринбург
+
+#EXTINF:-1 group-title="Эфирные",4 канал Екатеринбург
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1,41 Регион
+
+#EXTINF:-1 group-title="Эфирные",41 Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
-#EXTINF:-1,43 канал HD
+
+#EXTINF:-1 group-title="Эфирные",43 канал HD
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1,6ТВ Хабаровск
+
+#EXTINF:-1 group-title="Эфирные",6ТВ Хабаровск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1,6ТВ Хабаровск (Комсомольск-на Амуре)
+
+#EXTINF:-1 group-title="Эфирные",6ТВ Хабаровск (Комсомольск-на Амуре)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TVKMS/variant.m3u8
-#EXTINF:-1,7 TV
+
+#EXTINF:-1 group-title="Эфирные",7 TV
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1,7 канал KZ
-http://sc.id-tv.kz/7_kanal.m3u8
-#EXTINF:-1,7 канал KZ
-http://87.76.32.36:8001/7kanal
-#EXTINF:-1,78
-https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
-#EXTINF:-1,78
-http://195.64.140.147:10038/38
-#EXTINF:-1,7канал Красноярск
+
+#EXTINF:-1 group-title="Эфирные",7канал Красноярск
 https://edge-ekat1.teletarget.ru/stream/msk/trk7/index.m3u8
-#EXTINF:-1,7канал Красноярск
+
+#EXTINF:-1 group-title="Эфирные",7канал Красноярск
 https://7channel.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1,8 Канал
+
+#EXTINF:-1 group-title="Эфирные",8 Канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1,8 Канал International
+
+#EXTINF:-1 group-title="Эфирные",8 Канал International
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1,8 Канал Красноярск
+
+#EXTINF:-1 group-title="Эфирные",8 Канал Красноярск
 http://185.91.179.12/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1,8 Канал Красноярск
+
+#EXTINF:-1 group-title="Эфирные",8 Канал Красноярск
 http://185.91.179.12/8kanal/vintera/playlist.m3u8
-#EXTINF:-1,8 Канал Красноярск
-http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1,8 Канал Красноярск
-http://tshift-1.telecoma.tv/8channel/index.m3u8
-#EXTINF:-1,8 Канал Новосибирск
+
+=#EXTINF:-1 group-title="Эфирные",8 Канал Новосибирск
 http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1,8 канал Владивосток
+
+#EXTINF:-1 group-title="Эфирные",8 канал Владивосток
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1,Abai TV
+
+#EXTINF:-1 group-title="Казахстан",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1,Abai TV HD
+#EXTINF:-1 group-title="Казахстан",Abai TV HD
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1,Almaty TV
-http://87.76.32.36:8001/almatytv
-#EXTINF:-1,Amedia 1
-http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
-#EXTINF:-1,Amedia 1
-http://tv.ttk.mx:9155
-#EXTINF:-1,Amedia 1
-http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1,Amedia 1
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 1
 http://31.148.48.15:80/A1/index.m3u8
-#EXTINF:-1,Amedia 1
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1,Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1,Amedia 1
-http://195.158.223.132:8009/A1
-#EXTINF:-1,Amedia 1
-http://195.64.140.147:10059/59
-#EXTINF:-1,Amedia 1
-http://193.25.8.59:8000/amedia1
-#EXTINF:-1,Amedia 1
-http://195.158.223.132:8009/A1
-#EXTINF:-1,Amedia 1
-http://91.207.115.228:5000/c55
-#EXTINF:-1,Amedia 1
-http://193.25.8.59:8000/amedia1
-#EXTINF:-1,Amedia 2
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
-#EXTINF:-1,Amedia 2
-http://tv.ttk.mx:9156
-#EXTINF:-1,Amedia 2
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 2
 http://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1,Amedia 2
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 2
 http://31.148.48.15:80/A2/index.m3u8
-#EXTINF:-1,Amedia 2
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1,Amedia 2
-http://46.8.46.14/A2/index.m3u8
-#EXTINF:-1,Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1,Amedia 2
-http://195.158.223.132:8006/A2
-#EXTINF:-1,Amedia 2
-http://195.64.140.147:10060/60
-#EXTINF:-1,Amedia 2
-http://95.163.85.128/streams/media/a2_720x576/index.m3u8
-#EXTINF:-1,Amedia 2
-http://193.25.8.59:8000/amedia2
-#EXTINF:-1,Amedia 2
-http://195.158.223.132:8009/A2
-#EXTINF:-1,Amedia 2
-http://91.207.115.228:5000/c56
-#EXTINF:-1,Amedia 2
-http://193.25.8.59:8000/amedia2
-#EXTINF:-1,Amedia Hit
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1,Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1,Amedia Hit
-http://91.207.115.228:5000/c57
-#EXTINF:-1,Amedia Hit HD
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Hit HD
 http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
-#EXTINF:-1,Amedia Premium
-http://195.158.223.132:8009/Amedia_Premium
-#EXTINF:-1,Amedia Premium HD
-http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1,Amedia Premium HD
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Premium HD
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1,Amedia Premium HD
-http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1,Amedia Premium HD
-http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://91.207.115.228:5000/c58
-#EXTINF:-1,Ani
+
+#EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Ani
-http://tv.ttk.mx:9049
-#EXTINF:-1,Ani
-http://178.212.71.253:8000/play/74/index.m3u8
-#EXTINF:-1,Ani
-http://31.148.48.15:80/Ani/index.m3u8
-#EXTINF:-1,Ani
-http://95.66.188.74:80/Ani/mono.m3u8
-#EXTINF:-1,Ani
-http://195.158.223.132:8005/Ani
-#EXTINF:-1,Ani
-http://91.207.115.228:5000/c64
-#EXTINF:-1,Ani
-http://95.66.188.74/Ani/mono.m3u8
-#EXTINF:-1,Animal Planet
-http://95.85.109.219:7000/play/a088
-#EXTINF:-1,Animal Planet HD
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-#EXTINF:-1,Animal Planet HD
-http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://91.207.115.228:5000/c147
-#EXTINF:-1,Astana TV
-http://sc.id-tv.kz/Astana.m3u8
-#EXTINF:-1,Astana TV
-http://87.76.32.36:8001/astana
-#EXTINF:-1,Atameken
-http://87.76.32.36:8001/atameken
-#EXTINF:-1,Atameken Business
-http://sc.id-tv.kz/Atameken.m3u8
-#EXTINF:-1,Big Planet
-http://91.207.115.228:5000/c94
-#EXTINF:-1,Black
+
+#EXTINF:-1 group-title="Кино и сериалы",Black
 http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
-#EXTINF:-1,Black
+#EXTINF:-1 group-title="Кино и сериалы",Black HD
 http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1,Black
+#EXTINF:-1 group-title="Кино и сериалы",Black
 http://95.66.188.74/.black/index.m3u8
-#EXTINF:-1,Black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1,Black
-http://195.158.223.132:8000/.Black
-#EXTINF:-1,Black
-http://91.207.115.228:5000/c79
-#EXTINF:-1,Bollywood HD
-http://213.230.65.254:8000/play/a02e
-#EXTINF:-1,Bolt HD
-http://84.245.224.71/BoltHD/mono.m3u8
-#EXTINF:-1,Bridge TV
-http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1,Bridge TV
-http://178.212.71.253:8000/play/110/index.m3u8
-#EXTINF:-1,Bridge TV
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV
 http://31.148.48.15:80/Bridge_TV/index.m3u8
-#EXTINF:-1,Bridge TV
+#EXTINF:-1 group-title="Музыкальные",Bridge TV
 http://95.66.188.74/BridgeTV/index.m3u8
-#EXTINF:-1,Bridge TV
-http://5.188.221.43:8080/play/bridge-tv
-#EXTINF:-1,Bridge TV
-http://95.66.188.74:80/BridgeTV/mono.m3u8
-#EXTINF:-1,Bridge TV
-http://195.158.223.132:8009/Bridge
-#EXTINF:-1,Bridge TV
-http://91.207.115.228:5000/c117
-#EXTINF:-1,Bridge TV
-http://95.66.188.74/BridgeTV/mono.m3u8
-#EXTINF:-1,Bridge TV Baby Time
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-#EXTINF:-1,Bridge TV Classic
+
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
 http://178.212.71.253:8000/play/135/index.m3u8
-#EXTINF:-1,Bridge TV Classic
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
 http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1,Bridge TV Classic
-http://195.158.223.132:8004/Bridge_Classic
-#EXTINF:-1,Bridge TV Deluxe
-http://178.212.71.253:8000/play/98/index.m3u8
-#EXTINF:-1,Bridge TV Hits
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
 http://178.212.71.253:8000/play/134/index.m3u8
-#EXTINF:-1,Bridge TV Hits
-http://31.148.48.15:80/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1,Bridge TV Hits
-http://46.8.46.14/BridgeDance/index.m3u8
-#EXTINF:-1,Bridge TV Hits
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1,Bridge TV Hits
-http://195.158.223.132:8004/Bridge_Hits
-#EXTINF:-1,Bridge TV Hits
-http://91.207.115.228:5000/c120
-#EXTINF:-1,Bridge TV Rock
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Rock
 http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1,Bridge TV Русский ХИТ
-http://91.207.115.228:5000/c118
-#EXTINF:-1,Bridge TV Русский Хит
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Русский Хит
 http://193.25.8.59:8000/rusong
-#EXTINF:-1,Bridge TV Русский Хит
-http://193.25.8.59:8000/rusong
-#EXTINF:-1,Bridge TV Фрэш
+
+#EXTINF:-1  group-title="Музыкальные",Bridge TV Фрэш
 http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1,Bridge TV Фрэш
-http://195.158.223.132:8004/Bridge_Fresh
-#EXTINF:-1,Bridge TV Шлягер
+
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1,Bridge TV Шлягер
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
-#EXTINF:-1,Bridge TV Шлягер
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
-#EXTINF:-1,Bridge TV Этно
+
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Этно
 http://178.212.71.253:8000/play/65/index.m3u8
-#EXTINF:-1,Brodilo TV
-http://brodilo.tv/channel.php
-#EXTINF:-1,CGTN Русский
+
+
+#EXTINF:-1 group-title="Эфирные",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1,Cartoon Classics
+
+#EXTINF:-1 group-title="Детские",Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1,Cartoon Classics
+#EXTINF:-1 group-title="Детские",Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
-#EXTINF:-1,Cartoonito
+
+#EXTINF:-1 group-title="Детские",Cartoonito
 http://88.216.112.114/Cartoonito/index.m3u8
-#EXTINF:-1,Cinema
+
+#EXTINF:-1 group-title="Кино и сериалы",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinema
-http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
-#EXTINF:-1,Cinema
-http://tv.ttk.mx:9053
-#EXTINF:-1,Cinema
+
+#EXTINF:-1 group-title="Кино и сериалы",Cinema
 http://178.212.71.253:8000/play/40/index.m3u8
-#EXTINF:-1,Cinema
-http://185.46.16.239:8000/Cinema
-#EXTINF:-1,Cinema
-http://46.8.46.14/cinema/index.m3u8
-#EXTINF:-1,Cinema
-http://195.158.223.132:8006/Cinema
-#EXTINF:-1,Cinema
-http://195.64.140.147:10055/55
-#EXTINF:-1,Cinema
-http://91.207.115.228:5000/c172
-#EXTINF:-1,Cinema
-http://87.76.32.36:8001/sinema
-#EXTINF:-1,Cinema
+
+#EXTINF:-1 group-title="Кино и сериалы",Cinema
 http://95.66.188.74/Cinema/mono.m3u8
-#EXTINF:-1,Da Vinci
-http://tv.ttk.mx:9188
-#EXTINF:-1,Da Vinci
+
+#EXTINF:-1 group-title="Познавательные",Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1,Da Vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1,Da Vinci
+#EXTINF:-1 group-title="Познавательные",Da Vinci
 http://195.158.223.132:8001/Da_Vinci
-#EXTINF:-1,Da Vinci
-http://91.207.115.228:5000/c72
-#EXTINF:-1,Da Vinci
-http://87.76.32.36:8001/davinci
-#EXTINF:-1,Discovery
-http://91.207.115.228:5000/c146
-#EXTINF:-1,Discovery HD
+
+#EXTINF:-1 group-title="Познавательные",Discovery HD
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
-#EXTINF:-1,Discovery ID
-http://46.8.46.14/InvestigationDiscovery/index.m3u8
-#EXTINF:-1,Docu Box
+
+
+#EXTINF:-1 group-title="Познавательные",Docu Box
 http://193.25.8.59:8000/24Doc
-#EXTINF:-1,English Class
+
+#EXTINF:-1 group-title="Познавательные",English Class
 http://31.148.48.15:80/English_club_TV_HD/index.m3u8
-#EXTINF:-1,Epic
+
+#EXTINF:-1 group-title="Познавательные",Epic
 http://193.25.8.59:8000/dtx
-#EXTINF:-1,Europa Plus
-http://46.8.46.14/evropa/index.m3u8
-#EXTINF:-1,Europa Plus
-http://195.64.140.147:10036/36
-#EXTINF:-1,Europa Plus
-http://193.25.8.59:8000/vh1
-#EXTINF:-1,Europa Plus TV
-http://91.207.115.228:5000/c119
-#EXTINF:-1,Eurosport 1 HD
-http://95.85.109.219:7000/play/a076
-#EXTINF:-1,Eurosport 2 HD
-http://95.85.109.219:7000/play/704
-#EXTINF:-1,Eurosport 2 HD
+
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
 http://5.188.159.128:8070/eurosport2/index.m3u8
-#EXTINF:-1,Extreme Sports
+
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
-#EXTINF:-1,FAN
+
+#EXTINF:-1 group-title="Кино и сериалы",FAN
 http://31.148.48.15:80/Fan/index.m3u8
-#EXTINF:-1,FX
-http://46.8.46.14/FOX/index.m3u8
-#EXTINF:-1,FX
-http://185.164.82.18:9010/ykMHqK_Fox
-#EXTINF:-1,FX HD
-http://95.85.109.219:7000/play/a062
-#EXTINF:-1,FX Life HD
-http://95.85.109.219:7000/play/a065
-#EXTINF:-1,FX Life HD
-http://188.237.47.212:6008
-#EXTINF:-1,FX Life HD
-http://188.237.47.212:6008
-#EXTINF:-1,Fashion One HD
+
+#EXTINF:-1 group-title="Мода",Fashion One HD
 http://31.148.48.15:80/Fashion_One_HD/index.m3u8
-#EXTINF:-1,Fashion TV
+#EXTINF:-1 group-title="Мода",Fashion TV
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fast & Fun Box
+
+#EXTINF:-1 group-title="Спортивные",Fast & Fun Box
 http://193.25.8.59:8000/Avto24
-#EXTINF:-1,Fast & Fun Box
-http://193.25.8.59:8000/Avto24
-#EXTINF:-1,Fight Box
+
+#EXTINF:-1 group-title="Спортивные",Fight Box
 http://193.25.8.59:8000/box
-#EXTINF:-1,Film Box
+
+#EXTINF:-1 group-title="Кино и сериалы",Film Box
 http://193.25.8.59:8000/FilmBOX
-#EXTINF:-1,Flix Snip
-http://91.207.115.228:5000/c60
-#EXTINF:-1,Food Time HD
+
+#EXTINF:-1 group-title="Познавательные",Food Time HD
 http://31.148.48.15:80/Eda_Premium_HD/index.m3u8
-#EXTINF:-1,GLN 24 (Геленджик)
+
+#EXTINF:-1 group-title="Эфирные",GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
-#EXTINF:-1,Gakku
-http://87.76.32.36:8001/gakku
-#EXTINF:-1,Galaxy
-http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1,Galaxy
-http://tv.ttk.mx:9071
-#EXTINF:-1,Galaxy
-http://95.85.109.219:7000/play/a06b
-#EXTINF:-1,Galaxy
+
+
+#EXTINF:-1 group-title="Познавательные",Galaxy
 http://193.25.8.59:8000/galaxy
-#EXTINF:-1,Galaxy
-http://193.25.8.59:8000/galaxy
-#EXTINF:-1,Gulli Girl
-http://213.230.65.254:8000/play/a027
-#EXTINF:-1,Gulli Girl
-http://46.8.46.14/Gulli/index.m3u8
-#EXTINF:-1,Gulli Girl
-http://195.158.223.132:8011/Gulli_Girl
-#EXTINF:-1,HD REX
-http://tv.ttk.mx:9095
-#EXTINF:-1,HIT TV
-http://sc.id-tv.kz/HitTV.m3u8
+
 #EXTINF:-1,Hollywood
 http://31.148.48.15:80/AMC/index.m3u8
 #EXTINF:-1,Hollywood
