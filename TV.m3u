@@ -1180,39 +1180,39 @@ http://85.192.10.131/hls/pingvinru/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Первый канал
+#EXTINF:-1 group-title="Федеральные",Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",НТВ
+#EXTINF:-1 group-title="Федеральные",НТВ
 http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",ТНТ
+#EXTINF:-1 group-title="Федеральные",ТНТ
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Рен ТВ
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Россия 1
+#EXTINF:-1 group-title="Федеральные",Россия 1
 http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Россия К
+#EXTINF:-1 group-title="Федеральные",Россия К
 http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Viasat History
+#EXTINF:-1 group-title="Федеральные",Viasat History
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Пятый канал
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",2x2
+#EXTINF:-1 group-title="Федеральные",2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",VIP Comedy HD
+#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Кинопоказ
+#EXTINF:-1 group-title="Федеральные",Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Пятница
+#EXTINF:-1 group-title="Федеральные",Пятница
 http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",СТС
+#EXTINF:-1 group-title="Федеральные",СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",TMTV
+#EXTINF:-1 group-title="Федеральные",TMTV
 http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",ТНВ-Татарстан
+#EXTINF:-1 group-title="Федеральные",ТНВ-Татарстан
 http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",ТВ3
+#EXTINF:-1 group-title="Федеральные",ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Карусель
+#EXTINF:-1 group-title="Федеральные",Карусель
 http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
@@ -5164,33 +5164,33 @@ http://www.bravoerotica.com/erotic-tube/get_file/1/0135afa1a5922d1ead37d64cf130e
 http://www.bravoerotica.com/erotic-tube/get_file/1/01368cf8ba95c6804b206d7ab165ea27/2000/2406/2406_900x506.mp4
 #EXTINF:-1 group-title="Для взрослых, строго 18+",bravoerotica 7
 http://www.bravoerotica.com/erotic-tube/get_file/1/014b24bb9a938826b0756e828446906b/3000/3912/3912_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 8
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 8
 http://www.bravoerotica.com/erotic-tube/get_file/1/01513f81635a4152b5e652ea3adfeee5/3000/3098/3098_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 9
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 9
 http://www.bravoerotica.com/erotic-tube/get_file/1/01734a28892fb66cb79f896ef061f0fa/3000/3897/3897_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 10
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 10
 http://www.bravoerotica.com/erotic-tube/get_file/1/0184740701166f1741d05446687c86f2/1000/1127/1127_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 11
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 11
 http://www.bravoerotica.com/erotic-tube/get_file/1/01b3c9d7652f9982615b1e1f63d7b76e/2000/2224/2224_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 12
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 12
 http://www.bravoerotica.com/erotic-tube/get_file/1/01bb4a3758b0b63c574c711c4df68413/2000/2329/2329_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 13
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 13
 http://www.bravoerotica.com/erotic-tube/get_file/1/01cdf20ec7a7ccc7917cc168f61a43c1/3000/3443/3443_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 14
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 14
 http://www.bravoerotica.com/erotic-tube/get_file/1/01dba86c8750fec363d349c5c7a810e3/2000/2497/2497_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 15
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 15
 http://www.bravoerotica.com/erotic-tube/get_file/1/01f9ff1d0ce52f07d741f0af85a879eb/2000/2310/2310_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 16
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 16
 http://www.bravoerotica.com/erotic-tube/get_file/1/020deecf6e03b8bc2ae88f3d4aab12b2/1000/1949/1949_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 17
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 17
 http://www.bravoerotica.com/erotic-tube/get_file/1/0246f06de679546d54de2a0ff4c8ab42/3000/3105/3105_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 18
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 18
 http://www.bravoerotica.com/erotic-tube/get_file/1/0259652494790ba3311d58bbf6958ced/3000/3116/3116_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 19
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 19
 http://www.bravoerotica.com/erotic-tube/get_file/1/0284daae8ddc762ad78812fd5eaf8d7c/2000/2383/2383_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 20
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 20
 http://www.bravoerotica.com/erotic-tube/get_file/1/0288fea50753fe0b44e1ae6b99ed9ede/1000/1913/1913_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 21
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 21
 http://www.bravoerotica.com/erotic-tube/get_file/1/029556c0ac08e66683f43ad8144aa16f/2000/2192/2192_900x506.mp4
-#EXTINF:-1, group-title="Для взрослых, строго 18+"bravoerotica 22
+#EXTINF:-1  group-title="Для взрослых, строго 18+",bravoerotica 22
 http://www.bravoerotica.com/erotic-tube/get_file/1/029729f39b7a801f642b5c083b16e8f7/3000/3613/3613_900x506.mp4
