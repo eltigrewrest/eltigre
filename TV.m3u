@@ -189,8 +189,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="Новостные", EURONEWS
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1 group-title="Международные", Makon TV
-https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 #EXTINF:-1 group-title="Музыкальные", RU.TV
@@ -301,8 +300,7 @@ http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="Международные",Arirang Korea
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
 #EXTINF:-1 group-title="Музыкальные",9 ВОЛНА
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Cinema
@@ -5106,7 +5104,8 @@ https://avaserieshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="США",AWE TV
 https://awe-lg.amagi.tv/playlist1080p.m3u8
-
+#EXTINF:-1 group-title="Узбекистан", Makon TV
+https://flussonic.salomtv.uz/Makon_TV/video.m3u8
 #EXTINF:-1 group-title="Испания",AXN
 http://45.5.117.99:8000/play/a0iy/index.m3u8
 
@@ -7314,7 +7313,8 @@ https://irhls.persiana.live/hls/stream.m3u8
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Арабские",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-
+#EXTINF:-1 group-title="Азия",Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="Арабские",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Арабские",Persiana Nostalgia
