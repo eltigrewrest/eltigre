@@ -169,6 +169,22 @@ https://flussonic.salomtv.uz/Detskiy/video.m3u8
 http://86.57.209.210/Mult/index.m3u8
 
 
+#EXTINF:-1 group-title="Детские",Детское Кино International
+http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 1 International
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка 2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Музыка Кино International
+http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Религиозные",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Религиозные",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы", Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="Новостные", EURONEWS
@@ -458,7 +474,75 @@ http://2.57.217.85:8000/play/a0a0/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+http://45.87.35.12:7093/stream
 
+#EXTINF:-1 group-title="Спортивные",Eurosport 2
+http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 FR
+http://41.205.93.154/EUROSPORT2/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",Alpha TV Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Alpha TV Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
+#EXTINF:-1 group-title="Спортивные",NHL NETWORK
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Религиозные", Ангел ТВ
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Спортивные",NFL TV
+http://fl61.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Inter TV
+http://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 group-title="Спортивные",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/bahrainsportstwo/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Bein Sports
+http://154.197.91.169:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Bein Sports 6
+http://62.201.210.86:6969/bein6/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Bein Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Спортивные",Kuwait Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Спортивные",Kuwait Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Спортивные",Polsat Sport News
+http://45.87.35.12:7053/stream
+#EXTINF:-1 group-title="Музыкальные",Music RU
+https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Спортивные",Real Madrid TV Espana
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",DW
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Спортивные",SPORTS GRID
+https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Спортивные",Tennis Channel
+http://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Спортивные",Tennis TV
+http://49.0.64.96:8007/TENNIS
+
+#EXTINF:-1 group-title="Спортивные",Sport 1 CZ
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Sport 1 DE
+http://176.10.117.68:6060/sport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Sports TV Turk
+http://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",VIASAT Kino World
+http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 
 
 
@@ -4819,6 +4903,8 @@ http://85.11.144.9:50999/102
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3NhzQ52/xyplus.png" group-title="Для взрослых, строго 18+" tvg-id="no_epg_xxx", XYPlus
 http://85.11.144.9:50999/103
+
+
 
 
 #EXTINF:-1 group-title="Для взрослых, строго 18+" tvg-id="exxxotica", Exxxotica
