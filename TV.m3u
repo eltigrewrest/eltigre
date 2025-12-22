@@ -52,12 +52,13 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid1(1).mp4
 #EXTINF:-1 group-title="Спортивные", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime
+
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru" group-title="Спортивные",KHL Prime
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",MMA-TV.COM
 http://45.145.32.13:20440/mmatv/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ ТВ
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://www.ph4.ru/DL/LOGO/m/match_khl.gif" group-title="Спортивные",КХЛ ТВ
 http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч HD
 http://45.145.32.13:20440/match_hd/index.m3u8?token=test
