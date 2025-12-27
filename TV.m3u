@@ -51,12 +51,12 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Спортивные",СМОТРИ❗ВНИМАНИЕ ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid1(1).mp4
 
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",KHL Prime
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru" group-title="Спортивные",KHL Prime
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",MMA-TV.COM
 http://45.145.32.13:20440/mmatv/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ ТВ
+#EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://www.ph4.ru/DL/LOGO/m/match_khl.gif" group-title="Спортивные",КХЛ ТВ
 http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч HD
 http://45.145.32.13:20440/match_hd/index.m3u8?token=test
@@ -188,8 +188,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="Новостные", EURONEWS
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
-#EXTINF:-1 group-title="Международные", Makon TV
-https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы", Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 #EXTINF:-1 group-title="Музыкальные", RU.TV
@@ -300,8 +299,7 @@ http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="Международные",Arirang Korea
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
 #EXTINF:-1 group-title="Музыкальные",9 ВОЛНА
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Cinema
@@ -5093,7 +5091,8 @@ https://avaserieshls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="США",AWE TV
 https://awe-lg.amagi.tv/playlist1080p.m3u8
-
+#EXTINF:-1 group-title="Узбекистан", Makon TV
+https://flussonic.salomtv.uz/Makon_TV/video.m3u8
 #EXTINF:-1 group-title="Испания",AXN
 http://45.5.117.99:8000/play/a0iy/index.m3u8
 
@@ -7301,7 +7300,8 @@ https://irhls.persiana.live/hls/stream.m3u8
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Арабские",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-
+#EXTINF:-1 group-title="Азия",Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="Арабские",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Арабские",Persiana Nostalgia
