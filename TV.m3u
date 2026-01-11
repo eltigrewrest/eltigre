@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="ИНФО",СМОТРИ❗ВНИМАНИЕ ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",Подарок
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 group-title="Федеральные",Первый HD
 http://95.66.188.74/PerviyHD/mono.m3u8
@@ -53,6 +56,9 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 2
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка1
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru" group-title="Спортивные",KHL Prime
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
@@ -134,6 +140,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 3
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка 2
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png", TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4sd.png", TV4 SD
@@ -160,6 +169,9 @@ http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 4
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка 3
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 group-title="Детские",Мультимузыка
 https://streamer3.connectto.com/372/mono.m3u8
@@ -225,6 +237,9 @@ http://catchup.videoline.ru/match/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 5
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка4
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 group-title="Развлекательные",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
@@ -8831,6 +8846,9 @@ http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 6
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-altay/15344916/2a00000196c57759381e0871e694650a4ec2/XXL_height"  group-title="Тех поддержка",Поддержка5
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 tvg-logo="https://crdtv.net/b/templates/ottch/xy-mix.png" group-title="Для взрослых, строго 18+" tvg-id="no_epg_xxx", XYmix
 http://85.11.144.9:50999/101
