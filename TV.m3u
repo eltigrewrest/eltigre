@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="ИНФО",СМОТРИ❗ВНИМАНИЕ ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Получи премиальный плейлист в подарок",СМОТРИ❗ВНИМАНИЕ ВАЖНО 1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 1
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
 #EXTINF:-1 group-title="Федеральные",Первый HD
@@ -51,7 +51,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Получи премиальный плейлист в подарок",СМОТРИ❗ВНИМАНИЕ ВАЖНО 2
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 2
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru" group-title="Спортивные",KHL Prime
@@ -131,7 +131,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Получи премиальный плейлист в подарок",СМОТРИ❗ВНИМАНИЕ ВАЖНО 3
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 3
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png", TV4 HD
@@ -158,7 +158,7 @@ http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино и сериалы",Start World
 http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Получи премиальный плейлист в подарок",СМОТРИ❗ВНИМАНИЕ ВАЖНО 4
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 4
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
 #EXTINF:-1 group-title="Детские",Мультимузыка
@@ -223,7 +223,7 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч ТВ
 http://catchup.videoline.ru/match/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Получи премиальный плейлист в подарок",СМОТРИ❗ВНИМАНИЕ ВАЖНО 5
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 5
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
 #EXTINF:-1 group-title="Развлекательные",Загородная жизнь
@@ -8829,7 +8829,7 @@ https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 group-title="Израиль",Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg" group-title="Получи премиальный плейлист в подарок",СМОТРИ❗ВНИМАНИЕ ВАЖНО 6
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://depstroy.krasnodar.ru/upload/iblock/539/dwx2ivgpgi1ylfsqcjq18cw5pqdo72ss/4jpg_1706594096571.jpg"  group-title="ПОДАРОК премиальный плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО 6
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
 
 #EXTINF:-1 tvg-logo="https://crdtv.net/b/templates/ottch/xy-mix.png" group-title="Для взрослых, строго 18+" tvg-id="no_epg_xxx", XYmix
