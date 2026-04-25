@@ -1,18 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="Подарим премиум плейлист",СМОТРИ❗ВАЖНО
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/play.mp4
 #EXTINF:-1 group-title="Подарим премиум плейлист",Запроси Подарок
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Подарим премиум плейлист",Контакт поддержки
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/play.mp4
+#EXTINF:-1 group-title="Подарим премиум плейлист",Контакт поддержки в Телеграм
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
-
-#EXTINF:-1 group-title="Важная информация",СМОТРИ❗ВНИМАНИЕ ВАЖНО
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Важная информация",Подарок запроси
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Важная информация",Поддержка (контакт)
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
+#EXTINF:-1 group-title="Важная информация",Rонтакт поддержки в Max
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/max.mp4
 
 #EXTINF:-1  ,Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -70,6 +65,14 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 ,Матч ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Важная информация",СМОТРИ❗ВНИМАНИЕ ВАЖНО
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/play.mp4
+#EXTINF:-1 group-title="Важная информация",Подарок запроси
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/play.mp4
+#EXTINF:-1 group-title="Важная информация",Поддержка (контакт в Телеграм)
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
+#EXTINF:-1 group-title="Важная информация",Поддержка (контакт в Max)
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/max.mp4
 #EXTINF:-1 ,Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пингвин Лоло
