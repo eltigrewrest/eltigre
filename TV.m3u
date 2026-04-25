@@ -1,17 +1,17 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Подарим премиум плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО
+#EXTINF:-1 group-title="Подарим премиум плейлист",СМОТРИ❗ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Подарим премиум плейлист",Подарок
+#EXTINF:-1 group-title="Подарим премиум плейлист",Запроси Подарок
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Подарим премиум плейлист",Поддержка
+#EXTINF:-1 group-title="Подарим премиум плейлист",Контакт поддержки
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1 group-title="Важная информация",СМОТРИ❗ВНИМАНИЕ ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Важная информация",Подарок
+#EXTINF:-1 group-title="Важная информация",Подарок запроси
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 group-title="Важная информация",Поддержка
+#EXTINF:-1 group-title="Важная информация",Поддержка (контакт)
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 
 #EXTINF:-1  ,Первый канал HD
