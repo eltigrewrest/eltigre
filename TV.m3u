@@ -1,29 +1,33 @@
 #EXTM3U 
 
-#EXTINF:-1 ,СМОТРИ❗ВНИМАНИЕ ВАЖНО
+#EXTINF:-1 group-title="Подарим премиум плейлист",СМОТРИ❗ВНИМАНИЕ ВАЖНО
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Подарок
+#EXTINF:-1 group-title="Подарим премиум плейлист",Подарок
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Поддержка
+#EXTINF:-1 group-title="Подарим премиум плейлист",Поддержка
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
-#EXTINF:-1 ,Первый канал HD
+
+#EXTINF:-1 group-title="Важная информация",СМОТРИ❗ВНИМАНИЕ ВАЖНО
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+#EXTINF:-1 group-title="Важная информация",Подарок
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
+#EXTINF:-1 group-title="Важная информация",Поддержка
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
+
+#EXTINF:-1  ,Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 ,Россия 1 FHD
+#EXTINF:-1   ,Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 ,Россия 24 HD
+#EXTINF:-1   ,Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 ,Звезда HD
+#EXTINF:-1   ,Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Звезда Плюс HD
+#EXTINF:-1   ,Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,МИР 24 FHD
+#EXTINF:-1   ,МИР 24 FHD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,МИР HD
+#EXTINF:-1   ,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,СМОТРИ❗ВНИМАНИЕ ВАЖНО 2
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Поддержка1
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 #EXTINF:-1 ,CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 ,CHD-TV Rock FHD
@@ -32,16 +36,8 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 ,СМОТРИ❗ВНИМАНИЕ ВАЖНО 3
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Поддержка 2
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 #EXTINF:-1 ,DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 ,СМОТРИ❗ВНИМАНИЕ ВАЖНО 4
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Поддержка 3
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 #EXTINF:-1 ,Мультимузыка
 https://streamer3.connectto.com/372/mono.m3u8
 #EXTINF:-1 ,Надежда
@@ -52,10 +48,6 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 ,Матч ТВ
 http://catchup.videoline.ru/match/playlist.m3u8
-#EXTINF:-1 ,СМОТРИ❗ВНИМАНИЕ ВАЖНО 5
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Поддержка4
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 ,ДимГрад 24
@@ -4366,10 +4358,6 @@ http://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/chunks.m3u8
 https://owncast1.zuidwest.cloud/hls/3/stream.m3u8
 #EXTINF:-1 ,Первое Радио (ISR)
 http://edge-fs-10.cybercdn.live/Pervoia/Video/playlist.m3u8
-#EXTINF:-1 ,СМОТРИ❗ВНИМАНИЕ ВАЖНО 6
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/vid.mp4
-#EXTINF:-1 ,Поддержка5
-https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
 #EXTINF:-1 ,строго 18+" tvg-id="exxxotica", Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 ,строго 18+" tvg-id="no_epg_xxx" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",Eropuls DE 18+
