@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/play.mp4
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/play.mp4
 #EXTINF:-1 group-title="Подарим премиум плейлист",Контакт поддержки в Телеграм
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
-#EXTINF:-1 group-title="Важная информация",Rонтакт поддержки в Max
+#EXTINF:-1 group-title="Подарим премиум плейлист",Rонтакт поддержки в Max
 https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/max.mp4
 
 #EXTINF:-1  ,Первый канал HD
@@ -4509,3 +4509,9 @@ http://94.236.201.122/CENTOXCENTO/index.m3u8
 http://31.148.48.15:80/Brazzers_TV_Europe/index.m3u8
 #EXTINF:-1 ,строго 18+",Кино 18+
 http://v2.catcast.tv/content/40381/index.m3u8
+
+
+#EXTINF:-1 group-title="Контакт тех поддержки",Контакт поддержки Телеграм
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/supp.mp4
+#EXTINF:-1 group-title="Контакт тех поддержки",Rонтакт поддержки Max
+https://raw.githubusercontent.com/eltigrewrest/eltigre/refs/heads/main/max.mp4
